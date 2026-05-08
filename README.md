@@ -13,8 +13,6 @@ Features
 Technologies Used
 
 * Python
-* Pandas
-* NumPy
 * Matplotlib
 * yFinance
 
